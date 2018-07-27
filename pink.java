@@ -11,7 +11,7 @@ class Ideone
 		int n,i;
 		Scanner sc=new Scanner(System.in);
 		n=sc.nextInt();
-		for (i = 1; i <=3; i++) {
+		for (i = 1; i <=5; i++) {
 			System.out.println("Hello\n");
 		}// your code goes here
 	}
